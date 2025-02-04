@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Motak7
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python 🐍
+- 💞️ I'm looking to collaborate
+- 📫 How to reach me @ryanmotac
+- ⚡ Fun fact: I'm addicted to competing
