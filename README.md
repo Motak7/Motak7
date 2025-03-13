@@ -49,9 +49,3 @@
 <img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJwNDlybHN2NWR1azB5YTB3NWJ6a2VxNXViNXM0b25zZ2R4dmwwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Motak7/Motak7/output/snake.svg" alt="Snake animation" />
-
-###
