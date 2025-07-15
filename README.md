@@ -1,13 +1,13 @@
 <h2 align="left">Hi 👋! My name is Ryan and I'm a student, from Brazil!</h2>
 
-###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Motak7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Motak7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
-###
+<br>
 
 <div align="left">
   <a href="https://www.youtube.com/@DevMotak" target="_blank">
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/ryanmotak?igsh=MTBxdTJkbWhibWxlZw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="ryan.tupina@gmail.com" target="_blank">
+  <a href="mailto:ryan.tupina@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ryan-mota-28ba171b1/" target="_blank">
@@ -44,8 +44,6 @@
   </a>
 </div>
 
-###
+<br>
 
 <img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJwNDlybHN2NWR1azB5YTB3NWJ6a2VxNXViNXM0b25zZ2R4dmwwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif"  />
-
-###
